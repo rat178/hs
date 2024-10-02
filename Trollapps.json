@@ -1,0 +1,36 @@
+{
+    "name": "红鼠源",
+    "subtitle": "A repo hosted by BonnieDev",
+    "description": "I host cool apps",
+    "iconURL": "https://gitee.com/ratmv/hongshu/blob/master/945.png",
+    "headerURL": "https://gitee.com/ratmv/hongshu/blob/master/945.png",
+    "website": "",
+    "tintColor": "#F54F32",
+    "featuredApps": [],
+    "apps": [
+        {
+            "name": "IPA提取",
+            "bundleIdentifier": "dev.bonnie.tapgame",
+            "developerName": "BonnieDev",
+            "subtitle": "idk.",
+            "localizedDescription": "idk",
+            "iconURL": "https://gitee.com/ratmv/hongshu/blob/master/2023060722090287.jpg",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "2.1.2",
+                  "date": "2024-10-02",
+                  "localizedDescription": "very early test version (it sucks)",
+                  "downloadURL": "https://gitee.com/ratmv/hongshu/blob/master/app/IPA%E6%8F%90%E5%8F%96%E5%99%A8-2.1.2.ipa",
+                  "size": 17400000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
+        }
+    ],
+    "news": []
+  }
