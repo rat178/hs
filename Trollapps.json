@@ -31,6 +31,29 @@
               ],
             "appPermissions": {}
         }
+         {
+            "name": "淘色",
+            "bundleIdentifier": "dev.bonnie.tapgame",
+            "developerName": "BonnieDev",
+            "subtitle": "idk.",
+            "localizedDescription": "idk",
+            "iconURL": "https://github.com/rat178/hs/blob/aeb20e42c5bcd500af9cd0ede46b56b81bfc09be/ipa.jpg",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "2.0.0",
+                  "date": "2024-10-02",
+                  "localizedDescription": "very early test version (it sucks)",
+                  "downloadURL": "https://github.com/rat178/hs/blob/bfe5844fff200f8f1362a4cc9fbf4c8077683c37/taose.ipa",
+                  "size": 17400000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
+        }
     ],
     "news": []
   }
