@@ -30,7 +30,7 @@
                 }
               ],
             "appPermissions": {}
-        }
+        },
          {
             "name": "淘色",
             "bundleIdentifier": "dev.bonnie.tapgame",
@@ -53,7 +53,7 @@
                 }
               ],
             "appPermissions": {}
-        }
+        },
     ],
     "news": []
   }
